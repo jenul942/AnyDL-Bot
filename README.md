@@ -1,6 +1,6 @@
 # AnyDL Bot ❤
 
-## This bot can download video or audio from youtube quickly! Can be found in telegram as [@bot :\](https://t.me/AnyDLJRBot)
+## This bot can download video or audio from youtube quickly! Can be found in telegram as [@AnyDLJRBot :\](https://t.me/AnyDLJRBot)
 
 ### Deploy to Heroku 🏃‍♂
 
