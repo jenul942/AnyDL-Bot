@@ -234,7 +234,7 @@ async def send_video(message: Message, info_dict, video_file):
                     ),
                     InlineKeyboardButton(
                         "Group 🇱🇰",
-                        url="https://t.me/helpinhalen"
+                        url="https://t.me/helpsinhalen"
                     )
                 ]
             ]
